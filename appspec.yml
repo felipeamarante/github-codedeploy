@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/ubuntu/now/this/really/does/not/exist
+    destination: /home/test
     overwrite: true
 
 hooks:
