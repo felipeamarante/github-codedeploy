@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
   - source: /
-    destination: /home/ec2-user/
+    destination: /home/ec2-user/but/this/does/not/exist
     overwrite: true
 
 hooks:
